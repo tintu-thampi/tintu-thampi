@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @tintu-thampi
-- 👀 I’m interested in working in the IT industry.
-- 🌱 I’m currently learning Python and C++
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m working as QA Engineer.
+- 🌱 I’m currently learning Automation.
+- 💞️ I’m looking for new opportunities.
 - 📫 How to reach me tintuthampi2004 <at> gmail
