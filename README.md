@@ -1,5 +1,3 @@
 - 👋 Hi, I’m @tintu-thampi
-- 👀 I’m working as QA Engineer.
-- 🌱 I’m currently learning Automation.
-- 💞️ I’m looking for new opportunities.
-- 📫 How to reach me tintuthampi2004 <at> gmail
+- 👀 I am currently working as Software Test Automation Engineer.
+- 🌱 I’m interested in learning Automation related stuff.
